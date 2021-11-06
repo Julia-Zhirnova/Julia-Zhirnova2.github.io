@@ -4,3 +4,5 @@
 <br/>3. 10.1 Разработка на Python https://replit.com/@Julia-Zhirnova/Razrabotka-na-Python#main.py/</br>
 <br/>4. 11.1 Тестирование (QA) </br>
 ![image](https://user-images.githubusercontent.com/52165649/140622153-ef816431-303d-46e2-aa45-8d83c8ace2bd.png)
+<br/>12.1 Кибербезопасность - рассказ про пароли</br>
+<br/>13.1 Data Science</br>
